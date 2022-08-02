@@ -197,7 +197,7 @@
 
 <body>
   <header class="header">
-    <a href="#" class="logo">Developer</a>
+    <a href="#" class="logo">Web Server</a>
     <nav class="nav-items">
       <a href="#">Home</a>
       <a href="#">About</a>
@@ -206,8 +206,8 @@
   </header>
   <main>
     <div class="intro">
-      <h1>A Web Developer</h1>
-      <p>I am a web developer and I love to create websites.</p>
+      <h1>Congratulations !!</h1>
+      <p>You have successfully deployed java application</p>
       <button>Learn More</button>
     </div>
     <div class="achievements">
